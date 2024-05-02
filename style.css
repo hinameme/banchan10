@@ -1,0 +1,380 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+/*-------------------------------------*/
+
+
+header{
+    width: 1920px;
+    height: 150px;
+}
+header h2{
+    font-size: 3.4em;
+    color:#000000 ;
+    margin-left: 213px;
+    margin-top: 53px;
+    margin-bottom: 42px;
+    
+}
+
+
+/*------------------------------------*/
+    
+
+
+.sansen div{
+    height: 2px;
+    width: 109.5px;
+    background:#707070 ;
+    position: absolute;
+    top: 53px;
+    left: 90%;
+    transform: translate(-50%,-50%);
+    margin-bottom: 40.5px;
+    margin-right: 53.5px;
+    margin-top: 53px;
+}
+
+
+.sansen div:nth-of-type(1){
+    transform: translate(-50%,-30.5px);
+}
+
+.sansen div:nth-of-type(3){
+    transform: translate(-50%,30.5px);
+}
+
+
+
+
+/*-----------------------------------*/
+
+main img{
+    width:1920px;
+    height: 931px;
+}
+
+
+
+
+
+/*-----------------------------------*/
+#pickup p {
+    font-size: 3.3em;
+    margin-top: 133px;
+    margin-left: 856px;
+    margin-right: 844px;
+    margin-bottom: 123px;
+    width: 250px;
+    height: 55px;
+}
+
+
+
+
+/*---------------------------------*/
+
+
+
+#pick {
+    display: flex;
+    justify-content: space-around;
+    height: 512px;
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.kutu1 img{
+    object-fit: cover;
+    width: 106px;
+    height: 512px;
+}
+.kutu2 img{
+    width: 512px;
+    margin-left: 50px;
+}
+.kutu3 img{
+    width: 512px;
+    margin-left: 50px;
+}
+.kutu4 img{
+    width: 512px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.kutu5 img{
+    object-fit: cover;
+    width: 78px;
+    height: 512px;
+}
+
+
+
+/*----------------------------*/
+
+.feature p{
+    font-size: 3.3em;
+    margin-top: 230px;
+    margin-bottom: 84px;
+    margin-left: 840px;
+    margin-right: 827px;
+}
+
+
+/*----------------------------*/
+
+
+
+#kutu1-123 .flex{
+    display: flex;
+    margin-left: 159px;
+    margin-right: 158px;
+
+
+}
+#kutu1-123 ul{
+    list-style: none;
+}
+#kutu1-123 img{
+    width: 500px;
+    height: 220px;
+}
+.kutu1-1 {
+    border: solid 1px #707070;
+   margin-right: 53px;
+}
+#kutu1-123 ul li:nth-of-type(1){
+    margin-left: 23px;
+    margin-top: 21px;
+}
+#kutu1-123 ul li:nth-of-type(2){
+    margin-top: 36px;
+    margin-left: 67px;
+    margin-right: 37px;
+    width: 394px;
+    height: 80px;
+    font-size: 1.5em;
+
+}
+#kutu1-123 ul li:nth-of-type(3){
+    font-size: 1.5em;
+    
+}
+
+.kutu1-2 {
+    border: solid 1px #707070;
+   margin-right: 53px;
+}
+.kutu1-3{
+    border: solid 1px #707070;
+   margin-right: 53px;
+}
+
+
+
+
+/*-----------------------------------------*/
+
+
+
+#kutu2-123 .flex{
+    display: flex;
+    margin-left: 159px;
+    margin-right: 158px;
+    margin-top: 83px;
+    margin-bottom: 83px;
+
+
+}
+#kutu2-123 ul{
+    list-style: none;
+}
+#kutu2-123 img{
+    width: 500px;
+    height: 220px;
+}
+.kutu2-1 {
+    border: solid 1px #707070;
+   margin-right: 53px;
+}
+#kutu2-123 ul li:nth-of-type(1){
+    margin-left: 23px;
+    margin-top: 21px;
+}
+#kutu2-123 ul li:nth-of-type(2){
+    margin-top: 36px;
+    margin-left: 67px;
+    margin-right: 37px;
+    width: 394px;
+    height: 80px;
+    font-size: 1.5em;
+
+}
+#kutu2-123 ul li:nth-of-type(3){
+    font-size: 1.5em;
+    
+}
+
+.kutu2-2 {
+    border: solid 1px #707070;
+   margin-right: 53px;
+}
+.kutu2-3{
+    border: solid 1px #707070;
+   margin-right: 53px;
+}
+
+
+
+/*----------------------------------------------*/
+
+
+#kutu3-123 .flex{
+    display: flex;
+    margin-left: 159px;
+    margin-right: 158px;
+    margin-top: 83px;
+    margin-bottom: 83px;
+    
+
+
+}
+#kutu3-123 ul{
+    list-style: none;
+    
+}
+#kutu3-123 img{
+    width: 500px;
+    height: 220px;
+}
+.kutu3-1 {
+    border: solid 1px #707070;
+   margin-right: 53px;
+}
+#kutu3-123 ul li:nth-of-type(1){
+    margin-left: 23px;
+    margin-top: 21px;
+}
+#kutu3-123 ul li:nth-of-type(2){
+    margin-top: 36px;
+    margin-left: 67px;
+    margin-right: 37px;
+    width: 394px;
+    height: 80px;
+    font-size: 1.5em;
+
+}
+#kutu3-123 ul li:nth-of-type(3){
+    font-size: 1.5em;
+    
+}
+
+.kutu3-2 {
+    border: solid 1px #707070;
+   margin-right: 53px;
+}
+.kutu3-3{
+    border: solid 1px #707070;
+   margin-right: 53px;
+   
+}
+
+
+
+
+/*-----------------------------------------------*/
+
+
+
+footer{
+    background: #000000;
+    color: #FFFFFF;
+    width: 1920px;
+}
+.contact{
+    font-size: 3.3em;
+    text-align: center;
+    padding-top: 80px;
+}
+.contact p{
+    margin-top: 86px;
+}
+footer .flex{
+    display: flex;
+}
+.righttext{
+    display: block;
+    font-size: 1.8em;
+}
+.text p{
+    font-size: 1.8em;
+    width: 533px;
+    margin-left: 206px;
+    margin-top: 77px;
+    margin-right: 269px;
+    margin-bottom: 82px;
+}
+.text1{
+    list-style: none;
+    font-size: 1.8em;
+    margin-left: 206px;
+    margin-right: 64px;
+    margin-bottom: 66px;
+}
+.text2{
+    list-style: none;
+    font-size: 1.8em;
+    margin-left: 206px;
+    margin-right: 86px;
+    margin-bottom: 290px;
+}
+.name p:nth-of-type(1){
+    margin-top: 88px;
+    margin-bottom: 12px;
+}
+.name p:nth-of-type(2){
+    width: 611px;
+    height: 62px;
+    background: #FFFFFF;
+}
+
+
+
+.mail p:nth-of-type(1){
+    margin-top: 44px;
+    margin-bottom: 12px;
+}
+.mail p:nth-of-type(2){
+    width: 611px;
+    height: 76px;
+    background: #FFFFFF;
+}
+
+
+
+.message p:nth-of-type(1){
+    margin-top: 44px;
+    margin-bottom: 12px;
+}
+.message p:nth-of-type(2){
+    width: 611px;
+    height: 89px;
+    background: #FFFFFF;
+}
+.send{
+    font-size: 2.5em;
+    background: #000000;
+    border: solid 2px #FFFFFF;
+    margin-top: 41px;
+    text-align: center;
+    width: 306px;
+    height: 96px;
+}
+.footerhack{
+    font-size: 2.5em;
+    text-align: center;
+    margin-top: 101px;
+    margin-bottom: 28px;
+}
